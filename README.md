@@ -30,8 +30,7 @@ library-api/
 ├── main.py          # FastAPI app & routes
 ├── database.py      # SQLite connection & queries
 ├── models.py        # Pydantic models
-├── library.db       # SQLite database
-├── requirements.txt
+├── database.db       # SQLite database
 └── README.md
 
 # Database Tables
