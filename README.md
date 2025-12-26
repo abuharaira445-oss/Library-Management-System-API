@@ -133,5 +133,5 @@ This project is designed to:
 
 # Author
 
-Abu Huraira
+Abu Huraira,
 Backend development with Python & FastAPI
