@@ -34,7 +34,7 @@ library-api/
 ├── requirements.txt
 └── README.md
 
-# 🗄 Database Tables
+# Database Tables
 
 # Books
 
